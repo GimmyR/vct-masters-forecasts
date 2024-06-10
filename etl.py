@@ -5,6 +5,7 @@ ETL = Extract - Transform - Load
 from bs4 import BeautifulSoup
 import csv
 
+
 def getData(soup: BeautifulSoup) -> list :
 
     """

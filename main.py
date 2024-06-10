@@ -1,7 +1,5 @@
 import requests
-
 from bs4 import BeautifulSoup
-
 import etl
 
 if __name__ == "__main__" :
